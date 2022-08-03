@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Sara-Application</title>
+    <link rel="stylesheet" type="text/css" href="application.css" />
+</head>
+<body>
+    <div class="headline">//陳思安的申請簡章//</div>
+    <hr/>
+    <ul class="base">
+        <li class="title-1">個人簡介</li>
+    </ul>
+    <div class="content">
+        　　我的名字是陳思安，畢業於元智大學財金系，今年28歲，有5年多的電商企劃助理的工作經驗，在電商助理的工作中曾接觸過基本的HTML運用，遇到問題時習慣自己先上網尋求解答並設法解決，解決問題後也會繼續思考更好的做法，在這過程中發現自己蠻喜歡這樣的工作型態，享受解決問題的過程以及解決後的成就感，也因此開始對於寫程式的工作感到有興趣。
+    </div>
+    <ul class="base">
+        <li class="title-1">為了成為軟體工程師，曾做過什麼努力？</li>
+    </ul>
+    <div class="content">
+        　　在電商這個產業工作幾年後，就有想過轉職這條路，但因為總是忙於原本的工作而一直沒有太大進展，這次正好碰到工作的空窗期，同時也希望趁此機會給自己一段時間好好思考並確立自己轉職的方向，也認為在全職準備轉職的情況下會讓自己更加專注於學習，因此非常希望可以順利參加這次的課程計畫。
+    </div>
+    <ul class="base">
+        <li class="title-1">如果參與這個計畫，會怎麼安排學習時間？</li>
+    </ul>
+    <div class="content">
+        　　目前規劃是全職投入轉職計畫，在開課之前的這段時間，預計會在彭彭的youtube中完成JavaScript網頁前端工程的入門和進階課程，以及Python入門課程。<br/>
+        開課後，會訂定固定的學習時間及實作時間，目前預計每天總共會安排8-10小時的時間，全力為轉職做準備。
+        <div class="target">
+            <div class="stage">
+                <div class="stage-topic">開課前<br/>(6~8 hours a day)</div>
+                <div class="stage-content">
+                    1.線上學習HTML、CSS、Javascript網頁前端工程相關課程。<br/>
+                    2.線上學習Python入門課程。
+                </div>
+            </div>
+            <div class="arrow">
+                <div class="imgbox">
+                <img src="right-arrow.gif" width="40" height="40" />
+                </div>
+            </div>
+            <div class="stage">
+                <div class="stage-topic">第一階段<br/>(8~10 hours a day)</div>
+                <div class="stage-content">
+                    1.學習HTML、CSS、JavaScript、Python、Flask、MySQL。<br/>
+                    2.熟悉全端開發的所有基礎技能。<br/>
+                    3.每週提供<span class="highlight">至少2次</span>每日進度報告。
+                </div>
+            </div>
+            <div class="arrow">
+                <div class="imgbox">
+                <img src="right-arrow.gif" width="40" height="40" />
+                </div>
+            </div>
+            <div class="stage">
+                <div class="stage-topic">第二階段<br/>(8~10 hours a day)</div>
+                <div class="stage-content">
+                    1.延續前一階段技術持續學習。<br/>
+                    2.完成旅遊電商網站開發。<br/>
+                    3.每週提供<span class="highlight">至少2次</span>每日進度報告。
+                </div>
+            </div>
+            <div class="arrow">
+                <div class="imgbox">
+                <img src="right-arrow.gif" width="40" height="40" />
+                </div>
+            </div>
+            <div class="stage">
+                    <div class="stage-topic">第三階段<br/>(8~10 hours a day)</div>
+                    <div class="stage-content">
+                        1.延續前一階段技術持續學習。<br/>
+                        2.專精進階前端或後端開發技術。<br/>
+                        3.每週提供<span class="highlight">至少2次</span>每日進度報告。
+                    </div>
+                </div>
+        </div>
+    </div>
+    
+    <ul class="base">
+        <li class="title-1">是否有想要加入的軟體公司？為什麼想加入該公司？</li>
+    </ul>
+    <div class="content">
+        　　在電商產業工作的期間，最常接觸到的軟體公司是91APP，對於該公司推出的軟體應用上較為熟悉，並且也一直有感受到91APP持續地在更新並優化軟體的各項功能，如果未來有幸加入91APP，曾經身為他的軟體使用者的自己，會較容易理解使用者的需求考量，也因為對於軟體的使用以及邏輯有一定的熟悉度，相信可以在工作內容的理解上有些許的幫助，讓自己更快的進入狀況。
+    </div>
+    <ul class="base">
+        <li class="title-1">請描述一件你曾經碰到最困難的事情，如何克服？</li>
+    </ul>
+    <div class="content">
+        　　在電商助理的這份工作中，總是需要使用大量的EXCEL整理訂單資訊並將其整份匯進ERP系統中進行後續的出貨流程，在初期訂單量不多的狀況下，第一步驟的EXCEL整理訂單是以人工方式逐一調整欄位內容，但到了中後期公司訂單量持續倍數成長的情況下，發覺在人工方式的操作下不僅耗費時間也容易出錯，在公司也不打算補人的情況下，我的工作時間開始變得緊湊且不足，我開始想著如果在EXCEL中有一個按鈕按下去就可以完成所有繁瑣的調整步驟就好了，從有這個發想開始，我便每天花時間研究EXCEL的巨集功能，因為我沒有寫程式的基礎，所以是從錄製巨集的方式開始，逐一把錄製下來的語法配合我的需求進行刪減或是調整，有遇到卡住不知道該怎麼錄製的情況，就會上網尋求解答，在這個過程中初步對於語法有了些許的概念，最後我也成功完成了幾套工作中適用的巨集工具，並以設定快捷鍵的方式使其可以讓任何人都能直接使用。<br/>
+        　　這項成果也讓我的工作效率提升不少，也是在這段研究語法的過程中，發現自己對於程式並不排斥，甚至願意花費大量時間尋找解答，且在完成巨集工具後有著滿滿的成就感，也會時不時去更新裡面的各項指令，將其打造成更適用於這份工作需求的一套工具。
+
+    </div>
+    <ul class="base">
+        <li class="title-1">關於這份申請網頁，請分享一個你開發時的技術心得。</li>
+    </ul>
+    <div class="content">
+        　　在安排學習時間的回答中，因為想呈現每一階段任務的排版，所以使用了CSS Flexbox切版技巧，先是以7個區塊平行排列，並在4個階段中加入標題及內文，標題及內文再分別切兩種class選擇器來設定各自合適的排版，最後是讓箭頭的圖片置中對齊，這整段的排版上都花費了蠻長的時間去調整及釐清觀念，覺得先透過手畫草稿圖的方式去釐清自己的想法後，再去實作程式語言會更加順利，也較容易找到失敗的原因，而且測試的過程還蠻有趣的，最後順利找到解法也覺得很開心。
+    </div>
+    <ul class="base">
+        <li class="title-1">想要對我們說的事情？</li>
+    </ul>
+    <div class="content">
+        　　我是從朋友中初步了解到WeHelp 軟體工程師的訓練計畫，很感謝彭彭在線上事先已提供非常多的教學影片，內容都十分清楚且容易理解，這讓我在轉職這條路上下定決心，希望自己能夠透過這個訓練課程一步一腳印學習，從最基礎的地方開始做好打底，再進階到更專業的領域中繼續學習。<br/> 
+    </div>
+    <div class="final">
+        謝謝您的閱讀。
+    </div>
+</body>
